@@ -1,0 +1,2 @@
+# Lara
+Laravel Sample Repository
